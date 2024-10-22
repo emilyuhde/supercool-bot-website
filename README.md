@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Supercool Bot Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a React-based website for our awesome Supercool Bot. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and is deployed using Cloudflare Pages.
 
 ## Available Scripts
 
