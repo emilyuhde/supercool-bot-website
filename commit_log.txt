@@ -1,0 +1,5 @@
+commit 7a588c1427670dcf32d2a3c339600c389fd02d70
+Author: Devin AI <devin@example.com>
+Date:   Tue Oct 22 18:26:22 2024 +0000
+
+    Update website with pricing page, remove sign-up section, and fix routing

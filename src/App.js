@@ -149,7 +149,12 @@ function App() {
                   <Text fontSize={["lg", "xl"]} mb={4} color="black">
                     • Unlimited AI-powered task management<br/>
                     • Real-time analytics and reporting<br/>
-                    • 24/7 customer support
+                    • 24/7 customer support<br/>
+                    • Customizable workflows<br/>
+                    • Advanced security features
+                  </Text>
+                  <Text fontSize={["md", "lg"]} mb={6} color="black">
+                    Choose from our Basic, Pro, and Enterprise plans to find the perfect fit for your business needs.
                   </Text>
                   <Button as={Link} to="/pricing" colorScheme="brand" size="lg" mt={4} style={{ textDecoration: 'none' }}>
                     View Detailed Pricing
