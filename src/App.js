@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ChakraProvider, Box, VStack, Heading, Text, Button, Link as ChakraLink, useToast, extendTheme, SimpleGrid, Flex, Image, Container, Input } from '@chakra-ui/react';
+import { ChakraProvider, Box, VStack, Heading, Text, Button, useToast, extendTheme, SimpleGrid, Flex, Image, Container, Input } from '@chakra-ui/react';
 import { Global } from '@emotion/react';
 import { Route, Routes, Link } from 'react-router-dom';
 import PricingPage from './components/PricingPage';
